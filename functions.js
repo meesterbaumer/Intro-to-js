@@ -48,4 +48,3 @@ takeNumber('The Doors'); // This should display "1. Galactic Scum" in the DOM
 takeNumber('The Beatles'); // This should display "2. Underdogs" in the DOM
 
 
-
